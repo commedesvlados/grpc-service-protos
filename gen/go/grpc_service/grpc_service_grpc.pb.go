@@ -4,7 +4,7 @@
 // - protoc             v3.12.4
 // source: grpc_service/grpc_service.proto
 
-package project_project
+package gspv1
 
 import (
 	context "context"
