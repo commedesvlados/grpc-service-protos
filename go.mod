@@ -1,4 +1,4 @@
-module github.com/commedesvlados/grpc_service_protos
+module github.com/commedesvlados/grpc-service-protos
 
 go 1.21
 
@@ -12,5 +12,5 @@ require (
 	golang.org/x/net v0.14.0 // indirect
 	golang.org/x/sys v0.11.0 // indirect
 	golang.org/x/text v0.12.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20230822172742-b8732ec3820d // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20231127180814-3a041ad873d4 // indirect
 )
